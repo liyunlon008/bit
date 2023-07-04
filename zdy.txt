@@ -1,0 +1,5 @@
+payload:
+  - '+.passport-client.bitcomet.com'
+  - '+.www.xytalk.net'
+  - '+.www.fileshot.net'
+  - '+.image.fileshot.net'
